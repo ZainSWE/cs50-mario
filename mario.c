@@ -3,7 +3,7 @@
 
 int main() {
 
-    int height, row, column, hash;
+    int height = 0, row = 0, column = 0, hash = 0;
 
     do {
 	printf("Height: ");
